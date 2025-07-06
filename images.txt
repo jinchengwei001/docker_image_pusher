@@ -1,1 +1,2 @@
-openeuler/openeuler:22.03-lts-sp4
+rockylinux:9.3.20231119-minimal
+ubuntu:noble-20250619
