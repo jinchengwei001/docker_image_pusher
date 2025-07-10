@@ -1,1 +1,1 @@
-kubesphere/metrics-server
+kubesphere/kube-state-metrics:v2.15.0
