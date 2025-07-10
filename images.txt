@@ -1,2 +1,1 @@
-rockylinux:9.3.20231119-minimal
-ubuntu:noble-20250619
+openeuler/cuda:11.8.0-cudnn8.9.0-oe2203lts
