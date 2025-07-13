@@ -1,1 +1,1 @@
-kubesphere/kube-state-metrics:v2.15.0
+openeuler/mysql:8.3.0-oe2203sp3
