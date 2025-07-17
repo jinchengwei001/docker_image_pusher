@@ -1,1 +1,1 @@
-openeuler/prometheus
+openeuler/open-webui
