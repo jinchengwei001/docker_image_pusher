@@ -1,1 +1,1 @@
-openeuler/open-webui
+vllm/vllm-openai
