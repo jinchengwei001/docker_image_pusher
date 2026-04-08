@@ -1,1 +1,1 @@
-vllm/vllm-openai
+ghcr.nju.edu.cn/ggml-org/llama.cpp:server-cuda
